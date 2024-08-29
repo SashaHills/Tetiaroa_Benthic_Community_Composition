@@ -1,0 +1,27 @@
+{
+    "id": "28CD9828",
+    "path": "C:/tetiaroa_benthic_analysis/tetiaroa_2021/Benthic_Analysis/r_code/Tetiaroa_Benthic_Community_Composition/01_data_preprocessing.R",
+    "project_path": "01_data_preprocessing.R",
+    "type": "r_source",
+    "hash": "3362453624",
+    "contents": "",
+    "dirty": true,
+    "created": 1724937677944.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "388,0",
+        "scrollLine": "358"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1724937709,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1724937709831,
+    "read_only": false,
+    "read_only_alternatives": []
+}
