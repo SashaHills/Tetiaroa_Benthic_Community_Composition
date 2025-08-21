@@ -1,6 +1,6 @@
 # Tetiaroa_Benthic_Community_Composition
 This repository is associated with the manuscript:
-Rosalie A. Wright1,2, Sasha Hills*1, Courtney E. Stuart1, Kaya Malhi1, Pirta Palola1, Cassandra E. Benkwitt3 4 , Hannah E. Epstein4, Teva Salmon5, Helen V. Ford6, Melissa Ward1,7, and Lisa M. Wedding1 5 (in revision). Biophysical drivers of coral reef community structure across a tropical benthic seascape *Marine Biodiversity*.
+Rosalie A. Wright1,2, Sasha Hills*1, Courtney E. Stuart1, Kaya Malhi1, Pirta Palola1, Cassandra E. Benkwitt3 4 , Hannah E. Epstein4, Teva Salmon5, Helen V. Ford6, Melissa Ward1,7, and Lisa M. Wedding1 5 (in revision). Biophysical drivers of coral reef community structure across a tropical benthic seascape *Coral Reefs*.
 
 Abstract
 Coral reefs are global biodiversity hotspots important for ocean health, providing ecosystem services 
